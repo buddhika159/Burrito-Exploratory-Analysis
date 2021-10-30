@@ -1,4 +1,5 @@
 # Build a burrito dashboard using atoti
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This is a project that shows a new tool I learned and how I build a dashboard using atoti.
 
