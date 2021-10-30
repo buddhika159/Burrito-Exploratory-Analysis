@@ -1,6 +1,6 @@
 # Build a burrito dashboard using atoti
 
-This is a project that shows how I learn a new tool and build a dashboard using atoti
+This is a project that shows a new tool I learned and how I build a dashboard using atoti.
 
 Credit: This notebook is contributed by Ken Jee, who has been working in the data science field doing sports analytics for the last 5 years. He has held data science positions in companies ranging from startups to fortune 100 organizations.
 
