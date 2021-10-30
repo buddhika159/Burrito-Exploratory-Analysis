@@ -2,6 +2,8 @@
 
 This is a project that shows a new tool I learned and how I build a dashboard using atoti.
 
+Data set is from kaggle named Burritos in San Diego.
+
 Credit: This notebook is contributed by Ken Jee, who has been working in the data science field doing sports analytics for the last 5 years. He has held data science positions in companies ranging from startups to fortune 100 organizations.
 
 On his YouTube channel, he produces fun and informative Data Science and Sports Analytics Content. His goal is to provide insight into the data science community, career advice, and sports related analysis.
